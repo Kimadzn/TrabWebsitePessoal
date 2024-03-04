@@ -1,2 +1,2 @@
-# kimadzn.github.io
-Meu website
+# Website-Pessoal Curriculo
+Repositório de códigos referentes ao trabalho WEBSITE PESSOAL - pucminas
